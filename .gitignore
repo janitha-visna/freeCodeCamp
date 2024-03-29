@@ -111,6 +111,8 @@ coverage
 # nyc test coverage
 .nyc_output
 
+
+# added a space
 # Cypress.io
 cypress/videos
 cypress/screenshots
